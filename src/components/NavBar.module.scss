@@ -1,0 +1,48 @@
+.header {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+.logoWrapper {
+    max-width: 164px;
+    margin-right: 20px;
+}
+
+.caption {
+  font-family: "Montserrat";
+  font-weight: 300;
+  font-size: 10px;
+}
+
+.menu {
+  display: flex;
+  column-gap: 30px;
+  margin-right: 174px;
+}
+
+.contacts {
+  display: flex;
+}
+
+.contacts > li > div {
+  width: 16px;
+  height: 16px;
+  margin-left: 35px;
+}
+
+.contacts__number {
+  margin-right: 10px;
+}
+
+.icon1 {
+  background-image: url(../img/tg-ico.svg);
+}
+
+.icon2 {
+  background-image: url(../img/phone.svg);
+}
+
+.icon3 {
+  background-image: url(../img/whats-ico.svg);
+}
