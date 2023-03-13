@@ -18,7 +18,7 @@ export function Footer() {
           <li>Интеграции</li>
           <li>Наши клиенты</li>
         </ul>
-        <ul className={styles.menucolumn}>
+        <ul>
           <li>Кейсы</li>
           <li>Благодарственные письма</li>
           <li>Сертификаты</li>

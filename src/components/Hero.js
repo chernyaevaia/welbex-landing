@@ -13,7 +13,7 @@ export function Hero() {
             <span className={styles.highlighted}>с WELBEX</span>
           </h1>
           <div className={styles.subheading}>
-            Развиваем и контролируем продажи за вас
+            Развиваем и контролируем <br /> продажи за вас
           </div>
         </div>
         <SpecialOffers />

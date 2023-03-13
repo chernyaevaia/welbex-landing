@@ -11,7 +11,8 @@ export function SpecialOffers() {
       </div>
       <div className={styles.container}>
         <div>
-          <span className={styles.subheading}>Виджеты </span>
+        <span className={styles.subheadingMobile}>30 виджетов</span>
+          <span className={styles.subheadingDesktop}>Виджеты </span>
           <span className={styles.text}>30 готовых решений</span>
         </div>
         <div>
@@ -25,7 +26,8 @@ export function SpecialOffers() {
           <span className={styles.text}>отдела продажи CRM системы</span>
         </div>
         <div>
-          <span className={styles.subheading}>35 дней</span>
+          <span className={styles.subheadingDesktop}>35 дней</span>
+          <span className={styles.subheadingMobile}>Meсяц amoCRM</span>
           <span className={styles.text}>использования CRM</span>
         </div>
       </div>
