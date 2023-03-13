@@ -4,6 +4,8 @@ import styles from "./Hero.module.scss";
 
 export function Hero() {
   return (
+    <>
+      <div className={styles.redball}></div>
       <div className={styles.wrapper}>
         <div>
           <h1 className={styles.header}>
@@ -16,5 +18,6 @@ export function Hero() {
         </div>
         <SpecialOffers />
       </div>
+    </>
   );
 }
