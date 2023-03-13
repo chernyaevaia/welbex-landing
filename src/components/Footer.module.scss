@@ -1,7 +1,8 @@
 .wrapper {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   margin-bottom: 34px;
+  padding: 0 120px
 }
 
 .wrapper > ul > li {
@@ -39,9 +40,8 @@
   font-family: "Montserrat";
   font-size: 12px;
   text-align: right;
-  color: #e4e5ea;
   margin-bottom: 5px;
-  margin-right: 50px;
+  margin-right: 120px;
 }
 
 .policylink {
@@ -50,7 +50,7 @@
   font-size: 12px;
   text-align: right;
   text-decoration-line: underline;
-  margin-right: 50px;
+  margin-right: 120px;
 }
 
 .iconContainer {

@@ -12,16 +12,12 @@ body {
 ul,
 li {
   list-style: none;
+  padding: 0;
 }
 
 a {
   text-decoration: none;
   color: #e4e5ea;
-}
-
-.contentWrapper {
-  display: flex;
-  justify-content: space-between;
 }
 
 .purplelight {
@@ -30,7 +26,6 @@ a {
   height: 259px;
   left: 602px;
   top: -154px;
-
   background: #833ab4;
   opacity: 0.5;
   filter: blur(196px);
