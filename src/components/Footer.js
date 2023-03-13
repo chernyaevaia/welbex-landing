@@ -12,14 +12,13 @@ export function Footer() {
         </ul>
         <ul>
           <li className={styles.heading}>Меню</li>
-
           <li>Расчёт стоимости</li>
           <li>Услуги</li>
           <li>Виджеты</li>
           <li>Интеграции</li>
           <li>Наши клиенты</li>
         </ul>
-        <ul>
+        <ul className={styles.menucolumn}>
           <li>Кейсы</li>
           <li>Благодарственные письма</li>
           <li>Сертификаты</li>
