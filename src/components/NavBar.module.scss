@@ -1,7 +1,7 @@
 .header {
   display: flex;
   justify-content: center;
-  margin-top: 60px;
+  padding-top: 60px;
 }
 
 .logoWrapper {
@@ -45,4 +45,21 @@
 
 .icon3 {
   background-image: url(../img/whats-ico.svg);
+}
+
+@media (max-width: 480px) {
+  .header {
+    background-color: black;
+  }
+
+  .menu__link {
+    text-transform: uppercase;
+  }
+
+  .logoWrapper {
+    display: none;
+  }
+  .contacts {
+    display: none;
+  }
 }

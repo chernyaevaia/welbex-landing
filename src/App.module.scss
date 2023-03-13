@@ -90,3 +90,23 @@ a {
   filter: blur(2.5px);
   backdrop-filter: blur(2px);
 }
+
+@media (max-width: 480px) {
+
+  .purpleball {
+    display: none;
+  }
+
+  .redball {
+    display: none;
+  }
+
+  .redball2 {
+    display: none;
+  }
+
+  .purplelight {
+    display: none;
+  }
+  
+  }

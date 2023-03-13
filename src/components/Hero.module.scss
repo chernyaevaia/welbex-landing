@@ -40,8 +40,26 @@
   height: 311px;
   left: -102px;
   top: 251px;
-
   background: #961a1a;
   opacity: 0.5;
   filter: blur(196px);
+}
+
+@media (max-width: 480px) {
+
+  .header {
+    font-size: 36px;
+    line-height: 44px;
+  }
+
+  .wrapper {
+    flex-direction: column;
+    align-items: center;
+    column-gap: 0px;
+  }
+
+  .redball {
+    display: none;
+  }
+
 }

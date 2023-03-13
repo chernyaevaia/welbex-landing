@@ -60,3 +60,13 @@
   border: none;
   margin-top: 60px;
 }
+
+@media (max-width: 480px) {
+  .highlighted {
+    text-transform: none;
+  }
+
+  .text {
+    display: none;
+  }
+}
