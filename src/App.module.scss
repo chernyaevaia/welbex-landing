@@ -12,3 +12,14 @@ body {
 ul, li {
   list-style: none;
 }
+
+a {
+  text-decoration: none;
+  color: #e4e5ea;
+}
+
+
+.contentWrapper {
+  display: flex;
+  justify-content: space-between;
+}

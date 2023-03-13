@@ -1,0 +1,66 @@
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 34px;
+}
+
+.wrapper > ul > li {
+  margin-bottom: 10px;
+}
+
+.heading {
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #656566;
+  margin-bottom: 20px;
+}
+
+.icon1 {
+  width: 16px;
+  height: 16px;
+  background-image: url(../img/tg-ico.svg);
+}
+
+.icon2 {
+  width: 16px;
+  height: 16px;
+  background-image: url(../img/phone.svg);
+}
+
+.icon3 {
+  width: 16px;
+  height: 16px;
+  background-image: url(../img/whats-ico.svg);
+}
+
+.copyright {
+  font-family: "Montserrat";
+  font-size: 12px;
+  text-align: right;
+  color: #e4e5ea;
+  margin-bottom: 5px;
+  margin-right: 50px;
+}
+
+.policylink {
+  font-family: "Montserrat";
+  font-weight: 400;
+  font-size: 12px;
+  text-align: right;
+  text-decoration-line: underline;
+  margin-right: 50px;
+}
+
+.iconContainer {
+  display: flex;
+  column-gap: 10px;
+}
+
+.contacts {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  row-gap: 20px;
+}

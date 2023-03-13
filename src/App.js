@@ -1,5 +1,4 @@
-import "./App.css";
-import { SpecialOffers } from "./components//SpecialOffers";
+import styles from "./App.module.scss"
 import { Hero } from "./components/Hero";
 import { NavBar } from "./components//NavBar";
 import { Footer } from "./components/Footer";
@@ -9,7 +8,6 @@ function App() {
     <>
       <NavBar />
       <Hero />
-      <SpecialOffers />
       <Footer/>
     </>
   );

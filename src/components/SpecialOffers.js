@@ -12,21 +12,20 @@ export function SpecialOffers() {
       <div className={styles.container}>
         <div>
           <span className={styles.subheading}>Виджеты </span>
-          <br /> <span className={styles.text}>30 готовых решений</span>
+          <span className={styles.text}>30 готовых решений</span>
         </div>
         <div>
           <span className={styles.subheading}>Dashboard </span>
-          <br />
           <span className={styles.text}>с показателями вашего бизнеса</span>
         </div>
       </div>
       <div className={styles.container}>
         <div>
           <span className={styles.subheading}>Skype Аудит </span>
-          <br /> <span className={styles.text}>отдела продажи CRM системы</span>
+          <span className={styles.text}>отдела продажи CRM системы</span>
         </div>
         <div>
-          <span className={styles.subheading}>35 дней</span> <br />
+          <span className={styles.subheading}>35 дней</span>
           <span className={styles.text}>использования CRM</span>
         </div>
       </div>

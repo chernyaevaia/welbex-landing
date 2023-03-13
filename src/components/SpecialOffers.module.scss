@@ -12,6 +12,8 @@
 .container > div {
   max-width: 135px;
   margin-left: 30px;
+  display: flex;
+  flex-direction: column;
 }
 
 .heading {
