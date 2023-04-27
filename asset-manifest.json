@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/welbex-landing/static/css/main.481b7acd.css",
+    "main.js": "/welbex-landing/static/js/main.e42532ba.js",
+    "static/media/whats-ico.svg": "/welbex-landing/static/media/whats-ico.c3d7a933a8355b23bc43.svg",
+    "static/media/phone.svg": "/welbex-landing/static/media/phone.cf9c56ecdadaadbb8300.svg",
+    "index.html": "/welbex-landing/index.html",
+    "static/media/tg-ico.svg": "/welbex-landing/static/media/tg-ico.ec28ad3ae01fc187af4c.svg",
+    "main.481b7acd.css.map": "/welbex-landing/static/css/main.481b7acd.css.map",
+    "main.e42532ba.js.map": "/welbex-landing/static/js/main.e42532ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.481b7acd.css",
+    "static/js/main.e42532ba.js"
+  ]
+}
