@@ -37,14 +37,18 @@
 
 .icon1 {
   background-image: url(../img/tg-ico.svg);
+  background-repeat: no-repeat;
 }
 
 .icon2 {
   background-image: url(../img/phone.svg);
+  background-repeat: no-repeat;
+
 }
 
 .icon3 {
   background-image: url(../img/whats-ico.svg);
+  background-repeat: no-repeat;
 }
 
 @media (max-width: 480px) {
